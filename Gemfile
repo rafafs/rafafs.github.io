@@ -62,3 +62,8 @@ end
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
 
+# Testing and validation gems
+gem "htmlproofer"
+gem "rubocop-github"
+gem "w3c_validators"
+

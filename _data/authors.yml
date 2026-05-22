@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Rafael> <Ferreira>
+  email:             <mail.rafael@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -27,9 +27,11 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         <rafafs>
+    github:          <rafafs>
+    linkedin:        <rafaelferreirasilva>
+    instagram:       <rafa__ferreira>/<rafa__drone>
+    email:           <mail.rafael@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -40,7 +42,6 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -58,7 +59,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

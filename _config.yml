@@ -351,7 +351,7 @@ plugins:
 
 # Used for twitter cards
 # twitter:
-#   username:            <username>
+#   username:            <rafafs>
 
 # Used for facebook open graph
 # facebook:
@@ -361,10 +361,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                <Rafael> <Ferreira>
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://x.com/<rafafs>
+#     - https://github.com/<rafafs>
 
 
 # Plugin Configs
